@@ -1,0 +1,26 @@
+.navigation{
+    display: flex;
+    align-items: center;
+    height: 80px;
+    width: 100%;
+    justify-content: space-between;
+    padding: 2.5em;
+}
+
+.nav-links{
+    display: flex;
+    gap: 3em;
+    list-style: none;
+     align-items: center;
+
+     height: 100%;
+
+}
+
+.navigation a{
+    text-decoration: none;
+    color: #0F172A;
+    font-size: 16px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 350;
+}
